@@ -32,7 +32,7 @@ Follow these steps to get the project running locally:
    git clone https://github.com/YOUR-USERNAME/reactjs-leaderboard.git
 
 **Steps**
-Clone the repository: git clone https://github.com/YOUR-USERNAME/reactjs-leaderboard-2.git
-Navigate to the project directory: cd reactjs-leaderboard-2
-Install the dependencies: npm install
-Run the application: npm start The app will now be running on http://localhost:3000.
+-Clone the repository: git clone https://github.com/YOUR-USERNAME/reactjs-leaderboard-2.git
+-Navigate to the project directory: cd reactjs-leaderboard-2
+-Install the dependencies: npm install
+-Run the application: npm start The app will now be running on http://localhost:3000.
